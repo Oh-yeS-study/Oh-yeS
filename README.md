@@ -1,20 +1,20 @@
 # 오예스 스터디
 ## 팀원
-|김소연|김유진|송경석|평주영|
-|:---:|:---:|:---:|:---:|
-|[@nmsgust](https://github.com/nmsgust)|[@Erica1217](https://github.com/Erica1217)|[@songks0922](https://github.com/songks0922)|[@anthologia](https://github.com/anthologia)|
+|김소연|송경석|평주영|
+|:---:|:---:|:---:|
+|[@nmsgust](https://github.com/nmsgust)|[@songks0922](https://github.com/songks0922)|[@anthologia](https://github.com/anthologia)|
 
 ## 교재
 - 영어 : https://pages.cs.wisc.edu/~remzi/OSTEP/
 - 한글 : https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/
 
 ## 일정
-- 11/4 (금) 오후 4시
+- 11/11 (금) 오후 9시
     - Virtualization
         - Processes
         - Process API
         - Direct Execution
-- 11/11 (금) 오후 9시
+- 11/18 (금) 오후 9시
     - Virtualization
         - CPU Scheduling
         - Multi-level Feedback
