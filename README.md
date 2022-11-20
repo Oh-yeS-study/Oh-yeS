@@ -20,6 +20,18 @@
         - Multi-level Feedback
         - Lottery Scheduling
         - Multi-CPU Scheduling
+- 11/25 (금) 오후 9시
+    - Virtualization
+        - Address Spaces
+        - Address Translation
+        - Segmentation
+        - Free Space Management
+- 12/2 (금) 오후 9시
+    - Virtualization
+        - Introduction to Paging
+        - Translation Lookaside Buffers	
+        - Advanced Page Tables
+
 
 
 ## 스터디 진행방법
