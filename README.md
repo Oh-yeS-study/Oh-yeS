@@ -20,13 +20,13 @@
         - [Multi-level Feedback](https://github.com/Oh-yeS-study/Oh-yeS/tree/master/Virtualization%20Part/05%20Multi-level%20Feedback)
         - [Lottery Scheduling](https://github.com/Oh-yeS-study/Oh-yeS/tree/master/Virtualization%20Part/06%20Lottery%20Scheduling)
         - [Multi-CPU Scheduling](https://github.com/Oh-yeS-study/Oh-yeS/tree/master/Virtualization%20Part/07%20Multi-CPU%20Scheduling)
-- 11/25 (금) 오후 9시
+- 12/16 (금) 오후 9시
     - Virtualization
         - Address Spaces
         - Address Translation
         - Segmentation
         - Free Space Management
-- 12/2 (금) 오후 9시
+- 12/23 (금) 오후 9시
     - Virtualization
         - Introduction to Paging
         - Translation Lookaside Buffers	
