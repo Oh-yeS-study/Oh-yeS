@@ -1,8 +1,8 @@
 # 오예스 스터디
 ## 팀원
-|김소연|송경석|평주영|
-|:---:|:---:|:---:|
-|[@nmsgust](https://github.com/nmsgust)|[@songks0922](https://github.com/songks0922)|[@anthologia](https://github.com/anthologia)|
+|강승원|김소연|송경석|이현호|평주영|
+|:---:|:---:|:---:|:---:|:---:|
+|[@rkdtmddnjs97](https://github.com/rkdtmddnjs97)|[@nmsgust](https://github.com/nmsgust)|[@songks0922](https://github.com/songks0922)|[@charlesuu](https://github.com/charlesuu)|[@anthologia](https://github.com/anthologia)|
 
 ## 교재
 - 영어 : https://pages.cs.wisc.edu/~remzi/OSTEP/
@@ -20,13 +20,16 @@
         - [Multi-level Feedback](https://github.com/Oh-yeS-study/Oh-yeS/tree/master/Virtualization%20Part/05%20Multi-level%20Feedback)
         - [Lottery Scheduling](https://github.com/Oh-yeS-study/Oh-yeS/tree/master/Virtualization%20Part/06%20Lottery%20Scheduling)
         - [Multi-CPU Scheduling](https://github.com/Oh-yeS-study/Oh-yeS/tree/master/Virtualization%20Part/07%20Multi-CPU%20Scheduling)
-- 12/16 (금) 오후 9시
+- 12/26 (월) 오후 9시
+    - Virtualization
+        - 11/11, 11/18 스터디 리뷰
+- 1/9 (월) 오후 9시
     - Virtualization
         - Address Spaces
         - Address Translation
         - Segmentation
         - Free Space Management
-- 12/23 (금) 오후 9시
+- 1/16 (월) 오후 9시
     - Virtualization
         - Introduction to Paging
         - Translation Lookaside Buffers	
