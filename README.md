@@ -27,9 +27,11 @@
     - Virtualization
         - Address Spaces
         - Address Translation
+- 1/23 (월) 오후 9시
+    - Virtualization
         - Segmentation
         - Free Space Management
-- 1/16 (월) 오후 9시
+- 1/30 (월) 오후 9시
     - Virtualization
         - Introduction to Paging
         - Translation Lookaside Buffers	
